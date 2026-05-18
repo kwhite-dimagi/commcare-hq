@@ -19,8 +19,8 @@ Overview
     GET
 
 **Permission Required**
-    View Data
-    Access All Reports
+    - View Data
+    - Access All Reports
 
 Request & Response Details
 ---------------------------
