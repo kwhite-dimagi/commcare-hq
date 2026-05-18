@@ -20,6 +20,7 @@ Overview
 
 **Permission Required**
     View Data
+    Access All Reports
 
 Request & Response Details
 ---------------------------
